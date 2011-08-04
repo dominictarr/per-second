@@ -1,0 +1,11 @@
+{ "name": "persecond"
+, "version": "0.0.0"
+, "description": "generate statistics from an active process"
+, "homepage": "http://github.com/dominictarr/live-stats"
+, "repository": 
+  { "type": "git"
+  , "url": "https://github.com/dominictarr/live-stats.git" }
+, "dependencies": {}
+, "devDependencies": {}
+, "author": "Dominic Tarr <dominic.tarr@gmail.com> (http://bit.ly/dominictarr)"
+, "scripts": { "test": "meta-test test/*.js" } }
