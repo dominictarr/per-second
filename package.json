@@ -1,11 +1,13 @@
 { "name": "per-second"
-, "version": "0.0.0"
+, "version": "0.0.1"
 , "description": "generate statistics from an active process"
 , "homepage": "http://github.com/dominictarr/per-second"
 , "repository": 
   { "type": "git"
   , "url": "https://github.com/dominictarr/per-second.git" }
-, "dependencies": {}
+, "dependencies": {
+    "statistics": "1"
+  }
 , "devDependencies": {}
 , "author": "Dominic Tarr <dominic.tarr@gmail.com> (http://bit.ly/dominictarr)"
 , "scripts": { "test": "meta-test test/*.js" } }
